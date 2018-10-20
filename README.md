@@ -18,7 +18,7 @@ Collections and queries are stored in `CW1collection` folder.
 2 "term21 term22"           
 3 #15(term1, term2)
 ```
-Phrase should be involved in double quotes. Query 3 is proximity search, `#15` means the distance of term1 and term2.    
+Phrase should be involved in double quotes. Query 3 is proximity search, `#15` means the distance of term1 and term2 is 15.    
 
 * `queries.ranked.txt`: queries for ranked search, in the following format:   
 ```
