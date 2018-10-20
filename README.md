@@ -4,7 +4,7 @@
 These instructions will help you run the code on your machine for testing purposes.
 ### Install NLTK
 NLTK is a platform for building Python programs to work with human language data.  
-If you haven't install it: `pip install nltk`   
+If you haven't installed it: `pip install nltk`   
 ### Check the files
 There are 3 executable python files in the root directory:   
   * 01_create_index.py
