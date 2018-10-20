@@ -29,7 +29,7 @@ Search results will be stored in `Result` folder.
 
 ## Running the code  
 ### 1. Run 01_create_index.py
-It will create a file named `index.txt`, which will be used in other code. The format of index is:  
+It will create a index file named `index.txt`, which will be used in other codes. The format of index is:  
 ```
 term: 
        docID: pos1, pos2, .... 
